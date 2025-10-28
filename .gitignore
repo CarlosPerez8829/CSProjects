@@ -1,0 +1,27 @@
+# Ignore files that were accidentally committed and common Python artifacts
+Password.py
+PortScanner2.py
+password
+results.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local env files
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
